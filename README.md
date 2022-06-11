@@ -4,7 +4,7 @@
 <b>Note: The PDF converter is much better than the excel. May improve upon this in the future.</b><br><br>
 
 <h2>Use Case:</h2>
-<p>This script will take user input of rfc numbers and loop through the input to make requests for the specified inputs and write them to a file.
+<p>This script will take user input of rfc numbers and loop through the input.
 Example:
 1918 1997
 
