@@ -1,6 +1,6 @@
 # rfcscraper
 <h1>Scrape RFC's and covert them to PDF or Excel</h1>
-<b>Provided as is. </b><br><br>
+<b>Provided as is. I am not a professional developer.</b><br><br>
 <b>Note: The PDF converter is much better than the excel. May improve upon this in the future.</b><br><br>
 
 <h2>Use Case:</h2>
